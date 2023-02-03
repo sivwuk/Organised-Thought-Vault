@@ -99,6 +99,8 @@ Copy folders and file into a new vault and set up the plugins as follows
 Feel free to contact if you have any ideas for improving the vault on Twitter @siv_uk
 Please remember my goal is to help intermediate users as such I have opting not to include css improvements.
 
+<a href="https://www.buymeacoffee.com/sivwuk" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 
 ## Support
 If you spot an issue with the vault, let me know on Twitter @siv_uk
