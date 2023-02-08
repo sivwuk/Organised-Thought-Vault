@@ -91,15 +91,15 @@ Copy folders and file into a new vault and set up the plugins as follows
 - Add content to the template for permanent notes
 
 ### Daily Notes
-- Add content to the template for Daily notes
-- Add logic to link between Daily notes
+- 	Add content to the template for Daily notes
+- 	Add logic to link between Daily notes	- COMPLETE
 
 ### Weekly Notes
-- Add content to the template for Weekly notes
-- Add logic to link between Weekly notes
+- 	Add content to the template for Weekly notes - COMPLETE
+- 	Add logic to link between Weekly notes	- COMPLETE
 
 ### Study Notes
-- Add Studt Notes Templates
+- Add Study Notes Templates
 - Add Anki Integration
 
 ## Contributing
