@@ -4,39 +4,39 @@
 ## Project Overview
 This project aims to provide Obsidian beginners with a template vault to help reduce the friction of implementing their workflows in Obsidian.
 The vault covers the following functionality:
-1) Dashboard
+### 1) Dashboard
 The purpose of the Dashboard is to show how different parts of the vault can come together to create workflows.
 It provides  buttons to quickly create notes.
 
 ![CleanShot 2023-02-03 at 09 12 58](https://user-images.githubusercontent.com/21128739/216559728-dc4842dc-b3c4-4641-a1a4-8a49500d55d9.png)
 
-2) Goals
+### 2) Goals
 The goal markdown aims to track goals, progress, task and blockers.
 
 ![CleanShot 2023-02-03 at 09 13 33](https://user-images.githubusercontent.com/21128739/216559815-3ea55462-2ab3-4c01-9a70-63ead62410e6.png)
 
-3) Task management
+### 3) Task management
 Task management aims to help users create tasks within the vault and help track their progress.
 
 ![CleanShot 2023-02-03 at 09 54 55](https://user-images.githubusercontent.com/21128739/216569698-dc0942ed-39c9-48d0-844e-ee11c5e89d57.png)
 
-4) Zettlekastens notes
+### 4) Zettlekastens notes
 For users of Zettlekasten, I created a set of notes that users can customise to support the process.
 
 ![CleanShot 2023-02-03 at 09 55 35](https://user-images.githubusercontent.com/21128739/216569886-c8c95bf2-c39b-4757-a0f9-581d8c29b8b7.png)
 
 
-5) Daily Notes
+### 5) Daily Notes
 For users wishing to journal, I created the Daily notes template to help create notes for journaling.
 
 ![CleanShot 2023-02-08 at 09 38 23](https://user-images.githubusercontent.com/21128739/217492238-fb35301b-93ec-493e-b4e6-f5050788fdc8.png)
 
-6) Weekly Notes
+### 6) Weekly Notes
 I created a customised note template for users who want to reflect every week. 
 
 ![CleanShot 2023-02-08 at 10 17 38](https://user-images.githubusercontent.com/21128739/217501722-bdb91050-2192-4a54-9daf-ee60e9718409.png)
 
-7) Project Management 
+### 7) Project Management 
 For users who want to project manage, I created 
 1) Project Notes and folder structures to track project notes
 2) Index note to list out the notes
