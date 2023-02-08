@@ -1,5 +1,6 @@
 
-![[Brain.png|200x200]] 
+![[Brain.png|100x100]] 
+
 # 🆕 Quick Access
 ```button
 name Fleeting Note
@@ -40,7 +41,7 @@ templater true
 ```
 ```button
 name Weekly Note
-type template note(02-Area/01-Weekly Notes/New Weekly Note, split)
+type template note(02-Area/01-Weekly Notes/<% tp.date.now("YYYY-WW")%>, split)
 action Weekly Template
 templater true
 ``` 
@@ -73,10 +74,10 @@ WHERE file.name = "Project Dashboard" SORT file.mtime DESC
 
 # 🗓️ Area
 - 🗒️  Daily Notes 
-`$=dv.list(dv.pages('"03-Resources/01-Templates"').where(p => p.favourite == "Yes").sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
+`$=dv.list(dv.pages('"02-Area/00-Daily Notes"').where(p => p.type == "Daily").sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 
 - 🗨️ Weekly Review
-`$=dv.list(dv.pages('"03-Resources/01-Templates"').where(p => p.tweet == "Yes").sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
+`$=dv.list(dv.pages('"02-Area/01-Weekly Notes"').where(p => p.type == "Weekly").sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 
 - ⭐  Goal Tracking
 	- To do
