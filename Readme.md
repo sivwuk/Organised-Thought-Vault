@@ -22,20 +22,27 @@ Task management aims to help users create tasks within the vault and help track 
 
 4) Zettlekastens notes
 For users of Zettlekasten, I created a set of notes that users can customise to support the process.
+
 ![CleanShot 2023-02-03 at 09 55 35](https://user-images.githubusercontent.com/21128739/216569886-c8c95bf2-c39b-4757-a0f9-581d8c29b8b7.png)
 
 
 5) Daily Notes
 For users wishing to journal, I created the Daily notes template to help create notes for journaling.
 
+![CleanShot 2023-02-08 at 09 38 23](https://user-images.githubusercontent.com/21128739/217492238-fb35301b-93ec-493e-b4e6-f5050788fdc8.png)
+
 6) Weekly Notes
 I created a customised note template for users who want to reflect every week. 
+
+![CleanShot 2023-02-08 at 10 17 38](https://user-images.githubusercontent.com/21128739/217501722-bdb91050-2192-4a54-9daf-ee60e9718409.png)
 
 7) Project Management 
 For users who want to project manage, I created 
 1) Project Notes and folder structures to track project notes
 2) Index note to list out the notes
 3) View the Dashboard to track different projects
+
+![CleanShot 2023-02-08 at 10 18 15](https://user-images.githubusercontent.com/21128739/217501808-cdb2769f-0217-46a7-b87d-4c68856edc21.png)
 
 # How to Install?
 Copy folders and file into a new vault and set up the plugins as follows
