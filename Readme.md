@@ -66,7 +66,7 @@ Copy folders and file into a new vault and set up the plugins as follows
 
 ![CleanShot 2022-12-19 at 13 13 14](https://user-images.githubusercontent.com/21128739/216020720-3c2eabb8-180f-41e5-a63e-0c4fbd04d26a.png)
 
-8) Once installed press disable
+8) Once installed press enable
 
 ![CleanShot 2022-12-19 at 13 15 47](https://user-images.githubusercontent.com/21128739/216020768-ade2d214-150c-4a33-bec1-431e9ab1eb42.png)
 
@@ -81,8 +81,21 @@ Copy folders and file into a new vault and set up the plugins as follows
 
 ## Install Tasks plug-in
 
-
 ![CleanShot 2022-12-19 at 14 29 45](https://user-images.githubusercontent.com/21128739/216021016-8cf041fa-5504-48f9-9092-e2ce8a9db338.png)
+
+## Install Templater Plug-in
+
+![CleanShot 2023-02-08 at 12 01 08](https://user-images.githubusercontent.com/21128739/217524373-5eb46025-faf2-4fcc-9cf0-3df2ee182e98.png)
+
+## Set Up Templater Plug-in
+Configure Templater Plugin-in as below
+
+![CleanShot 2023-02-08 at 11 57 23](https://user-images.githubusercontent.com/21128739/217523753-292a5aeb-8b4a-4c12-8e60-8ff500453505.png)
+
+## Set Up Daily Note Plug-in
+Configure Daily Note Plugin-in as below
+![CleanShot 2023-02-08 at 12 10 12](https://user-images.githubusercontent.com/21128739/217526179-da46a658-13ee-4483-bd2a-9b1c5534ac51.png)
+
 
 ## Roadmap
 ### Zettlekastens notes
